@@ -1,0 +1,5 @@
+{
+  "name": "Coletor ASCOM TRE-MT",
+  "description": "Assistente virtual para coleta de informações de pauta junto aos servidores e cartórios eleitorais do TRE-MT.",
+  "requestFramePermissions": []
+}
